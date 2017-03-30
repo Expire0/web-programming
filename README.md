@@ -11,3 +11,6 @@ http://getbootstrap.com/getting-started/
 
 bootply 
 http://www.bootply.com/
+
+
+These a basic templates to be used for new web projects 
