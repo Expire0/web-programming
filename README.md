@@ -14,3 +14,7 @@ http://www.bootply.com/
 
 
 These a basic templates to be used for new web projects 
+
+Temp placement 
+https://www.linux.com/learn/intro-to-linux/2017/3/how-use-different-linux-bash-shells-windows-10
+
