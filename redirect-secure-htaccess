@@ -1,0 +1,10 @@
+##https://httpd.apache.org/docs/2.4/rewrite/intro.html
+
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+#redirect www to https
+RewriteRule ^(w*)$ https://<domain>m/$1 [R=301,L]  
+#redirect none www to https
+RewriteRule ^(.)$ https://<domain>/$1 [R=301,L]
+
